@@ -1,0 +1,15 @@
+{
+  "name": "chess-2",
+  "version": "1.0.0",
+  "description": "An AI powered chess Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^13.0.1"
+  }
+}
